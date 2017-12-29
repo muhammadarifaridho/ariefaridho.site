@@ -1676,7 +1676,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
     font-size: 2.1rem;
   }
   .home-content-tablecell h1 {
-    font-size: 7rem;
+    font-size: 5rem;
   }
 }
 @media only screen and (max-width: 1024px) {
@@ -1684,7 +1684,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
     font-size: 2rem;
   }
   .home-content-tablecell h1 {
-    font-size: 6rem;
+    font-size: 4rem;
   }
 }
 @media only screen and (max-width: 768px) {
@@ -1695,7 +1695,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
     font-size: 1.8rem;
   }
   .home-content-tablecell h1 {
-    font-size: 5.2rem;
+    font-size: 3.2rem;
   }
   .home-content-tablecell h1 br {
     display: none;
