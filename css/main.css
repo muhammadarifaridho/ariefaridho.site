@@ -95,7 +95,7 @@ a:hover, a:focus {
  * ------------------------------------------------------------------- */
 h1, h2, h3, h4, h5, h6,
 .h01, .h02, .h03, .h04, .h05, .h06 {
-  font-family: "montserrat-bold", sans-serif;
+  font-family: Constantia, 'Lucida Bright', 'DejaVu Serif', Georgia, 'serif';
   color: #151515;
   font-style: normal;
   text-rendering: optimizeLegibility;
@@ -1676,7 +1676,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
     font-size: 2.1rem;
   }
   .home-content-tablecell h1 {
-    font-size: 5rem;
+    font-size: 7rem;
   }
 }
 @media only screen and (max-width: 1024px) {
